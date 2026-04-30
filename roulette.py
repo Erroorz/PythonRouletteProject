@@ -1,6 +1,6 @@
 #my silly lil program :3
 #simple and easy to understand so small brain doesn't get overwhelmed (myself)
-#it still doesnt fucking work bruhhhhhh
+#actually works
 
 import random
 colors = ["BLACK"] * 18 + ["RED"] * 18 + ["Green"]
